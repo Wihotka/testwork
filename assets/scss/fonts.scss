@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Source Sans Pro';
+    src:
+      local('Source Sans Pro'),
+      url('~assets/fonts/source-sans-pro-v21-latin_cyrillic-regular.woff2') format('woff2'),
+		  url('~assets/fonts/source-sans-pro-v21-latin_cyrillic-regular.woff') format('woff');
+	font-display: swap;
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Source Sans Pro';
+    src:
+      local('Source Sans Pro'),
+      url('~assets/fonts/source-sans-pro-v21-latin_cyrillic-600.woff2') format('woff2'),
+		  url('~assets/fonts/source-sans-pro-v21-latin_cyrillic-600.woff') format('woff');
+	font-display: swap;
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Inter';
+    src:
+      local('Inter'),
+      url('~assets/fonts/inter-v11-latin-600.woff2') format('woff2'),
+		  url('~assets/fonts/inter-v11-latin-600.woff') format('woff');
+	font-display: swap;
+	font-weight: 600;
+	font-style: normal;
+}
